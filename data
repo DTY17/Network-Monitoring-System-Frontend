@@ -1,0 +1,10 @@
+const users = [
+  { avatar: "AM", name: "Aria Mehta",    email: "aria@example.com",  role: "Admin",  status: "Active",   joined: "Jan 12, 2024", color: "bg-violet-700" },
+  { avatar: "JL", name: "James Luo",     email: "james@example.com", role: "Pro",    status: "Active",   joined: "Feb 3, 2024",  color: "bg-sky-700"    },
+  { avatar: "SR", name: "Sofia Reyes",   email: "sofia@example.com", role: "Member", status: "Pending",  joined: "Mar 18, 2024", color: "bg-emerald-700"},
+  { avatar: "KN", name: "Kai Nakamura",  email: "kai@example.com",   role: "Member", status: "Inactive", joined: "Apr 22, 2024", color: "bg-rose-800"   },
+  { avatar: "LF", name: "Lena Fischer",  email: "lena@example.com",  role: "Pro",    status: "Active",   joined: "May 5, 2024",  color: "bg-amber-700"  },
+  { avatar: "OH", name: "Omar Hassan",   email: "omar@example.com",  role: "Admin",  status: "Active",   joined: "May 30, 2024", color: "bg-indigo-700" },
+];
+
+mongodb+srv://dty:<>@online-db.kqagkqn.mongodb.net/?appName=ONLINE-DB
