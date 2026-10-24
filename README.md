@@ -1,4 +1,4 @@
-# AS Manager — Syslog Monitoring Dashboard
+# Network Monitoring System — Syslog Monitoring Dashboard
 
 A web dashboard for collecting, reviewing, and approving syslog events from network devices (e.g. Cisco switches/routers). Devices send syslog over UDP, a Python collector parses and forwards each message to the backend, and the React frontend lets users mark issues as fixed while admins approve or reject the fixes.
 
